@@ -1,6 +1,6 @@
 # webpack-typescript
 
-> A Vue, Webpack, Typescript, Bootstrap setup with hot reload, dynamic imports, unit testing, 
+> A Vue, Webpack, Typescript setup with hot reload, dynamic imports, unit testing, 
 code coverage, sass, uncss and bundling/minification.
 
 > This template is for Vue 2.5. See the [changelog](CHANGELOG.md) for updates.
@@ -11,7 +11,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init ducksoupdev/vue-webpack-typescript my-project
+$ vue init santiihoyos/vue-webpack-typescript my-project
 $ cd my-project
 $ npm install
 $ npm run dev
