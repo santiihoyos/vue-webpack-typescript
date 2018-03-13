@@ -1,8 +1,8 @@
 {
-  "name": "{{ name }}",
-  "description": "{{ description }}",
+  "name": "test_desde_respo_santi1",
+  "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "{{ author }}",
+  "author": "Santi",
   "private": true,
   "engines": {
     "node": ">=6",
